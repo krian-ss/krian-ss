@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kiran-s-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kiran-s-s" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kiran-s-s-9917252b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kiran-s-s-9917252b8" height="30" width="40" /></a>
 <a href="https://instagram.com/krian_ss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krian_ss" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/krian_ss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="krian_ss" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@sunray2709" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sunray2709" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@krian_ss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@krian_ss" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sunray2709" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sunray2709" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
